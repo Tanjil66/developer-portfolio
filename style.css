@@ -10,10 +10,11 @@ color: orangered;
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
-    width:50%
-    padding-left:5%
+    width:50%;
+    padding-left: 5%;
 }
 .half-width img{
     width:80%
@@ -27,7 +28,11 @@ section{
     border-radius: 5px;
 }
 .top-banner{
-    background-image: url(images/118354308_236670320922586_3556880554249935006_n.jpg)
+    background-image: url(images/87216755_801403133693138_5101585389961871360_n.png);
     background-repeat: no-repeat;
-
+}
+.dream-big{
+    background-image: url(images/87382184_578293089428234_8515006254706327552_n.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
